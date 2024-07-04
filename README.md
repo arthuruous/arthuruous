@@ -1,4 +1,4 @@
-## Meu nome é Arthur Oliveira :D
+## I'm Arthur Oliveira
 
 
 - Currently on high school on ETEC - Escola Técnica Estadual da Zona Leste
