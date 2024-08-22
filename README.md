@@ -1,8 +1,7 @@
-## I'm Arthur Oliveira
+## I'm Arthur
 
 
-- Currently on high school on ETEC - Escola Técnica Estadual da Zona Leste
-- Learning HTML, CSS and Java... 
-- Looking for help with professional expiriences
+- Currently on high school on ETEC da Zona Leste
+- Learning HTML, CSS and Java
 - Intermediate english
 
