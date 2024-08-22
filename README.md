@@ -5,3 +5,6 @@
 - Learning HTML, CSS and Java
 - Intermediate english
 
+- Contacts arthursateles1@gmail.com
+- LinkdIn 
+
