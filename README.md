@@ -6,7 +6,7 @@
 </div>
 
 <h2>Where I'am?</h2>
-<h3><a href="https://www.cps.sp.gov.br/etec/">ETEC</a> da Zona Leste</h3>
+<h3><a target="_blank" href="https://www.cps.sp.gov.br/etec/">ETEC</a> da Zona Leste</h3>
 <p>High school plus <a href="https://www.cps.sp.gov.br/cursos-etec/desenvolvimento-de-sistemas/">System Development</a> technical course</p>
 -2024 - Now
 
