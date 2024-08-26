@@ -1,7 +1,7 @@
-<header align="center">
+<div align="center">
   <h1>Always in learning process</h1>
-</header>
-<div>
+</div>
+<div align ="center">
   <a href="#">arthursateles1@gmail.com</a>
 </div>
 
