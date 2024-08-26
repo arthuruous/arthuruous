@@ -13,7 +13,7 @@
 <h2></h2>
 - Learning HTML, CSS and Java
 
-## Languages
+Languages
 - Portuguese - BR
   >Fluent/Native
 - English
