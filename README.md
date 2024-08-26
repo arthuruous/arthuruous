@@ -13,9 +13,9 @@
 <h2></h2>
 - Learning HTML, CSS and Java
 
-<h2>Leanguages</h2>
-- Portuguese Brazil
-  >Native
+## Languages
+- Portuguese - BR
+  >Fluent/Native
 - English
   >Intermediate
 - Spanish
