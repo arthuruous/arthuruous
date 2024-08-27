@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Always in learning process</h1>
-  <i>""</i>
+  <i>"In order to create something different, you have to break up with the past. But you also need to make sure to carry its           essence within you." -Hideo Kojima</i>
 </div>
 <div align ="center">
   <a href="#">arthursateles1@gmail.com</a>
